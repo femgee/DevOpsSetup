@@ -4,3 +4,4 @@
 <h2> Keep Training to be the best at what you need to do to get to the next level</h2>
 <h2> keep off from distractors</h2>
 <h2> Still learning as usual</h2>
+<h2> Adding continous deployment</h2>
