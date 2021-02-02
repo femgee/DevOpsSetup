@@ -6,3 +6,4 @@
 <h2> Still learning as usual</h2>
 <h2> Adding continous deployment</h2>
 <h2> Another checkup</h2>
+<h2> Captain Sir Tom Moore has passed away, RIP Sir</h2>
